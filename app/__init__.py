@@ -1,0 +1,1 @@
+"""Semantic Text Optimizer application package."""
